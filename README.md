@@ -5,9 +5,7 @@
 
 - 🌱 I am currently studying at **Elbrus Bootcamp.**
 
-- 💬 Ask me about **my.skill.length**
-
-- 📫 How to reach me **https://t.me/Lensrof**
+- 📫 How to reach me **https://t.me/Ilya_Yan_Kvansen**
 
 - 📄 Know about my experiences [junior js devolper](junior js devolper)
 
