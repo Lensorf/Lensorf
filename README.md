@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lensorf" alt="lensorf" /></a> </p>
 
-- 🌱 I am currently studying at **Elbrus Bootcamp.**
+- 🌱 I am currently a **Frontend Developer.**
 
 - 📫 How to reach me **https://t.me/Ilya_Yan_Kvansen**
 
