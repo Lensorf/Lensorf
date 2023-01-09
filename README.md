@@ -5,7 +5,7 @@
 
 - 🌱 I am a **Frontend Developer**
 
-- 📫 How to reach me **https://t.me/Lensrof**
+- 📫 How to reach me **https://t.me/IlyaYanKvansen**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
